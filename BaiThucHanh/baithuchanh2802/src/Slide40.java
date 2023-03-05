@@ -3,7 +3,7 @@ public class Slide40 {
     public static void main(String[] args){
         int n;
         Scanner scanner = new Scanner(System.in);
-        System.out.println("nhập số: ");
+        System.out.print("nhập số: ");
         n  = scanner.nextInt();
     
     switch (n) {
